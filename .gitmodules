@@ -1,0 +1,6 @@
+[submodule "lib/exampleA"]
+	path = lib/exampleA
+	url = git@github.com:HybridEchoGroup/lib-exampleA.git
+[submodule "lib/exampleB"]
+	path = lib/exampleB
+	url = git@github.com:HybridEchoGroup/lib-exampleB.git
